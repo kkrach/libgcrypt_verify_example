@@ -5,7 +5,7 @@
  *
  * Copyright (C) 2015 WORK Microwave GmbH
  *
- * Author: Karl Krach <karl.krach@work-microwave.com>
+ * Author: Karl Krach
  */
 
 
